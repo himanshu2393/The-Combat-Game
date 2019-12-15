@@ -10,14 +10,14 @@ The Combat Game
 
 System Requirements:
 --------------------- 
-•	To develop and maintain the game, system requirements are as follows:
-    OS:  Windows XP and above, UNIX,  MacOS.
-    Python:  Version 3.X
-    Editor or IDE:  Notepad++, Sublime, or PyCharm
-•	To run the game, system requirement is as follows:
-    OS:  Windows XP and above, UNIX,  MacOS.
-    Python:  Version 3.X
-    To Run:  Command Prompt / Powershell with the command:
+*	To develop and maintain the game, system requirements are as follows:
+      * OS:  Windows XP and above, UNIX,  MacOS.
+      * Python:  Version 3.X
+      * Editor or IDE:  Notepad++, Sublime, or PyCharm
+*	To run the game, system requirement is as follows:
+      * OS:  Windows XP and above, UNIX,  MacOS.
+      * Python:  Version 3.X
+      * To Run:  Command Prompt / Powershell with the command:
                 >>>  python extended_game.py     [for The Combat Simulator] 
 
 
