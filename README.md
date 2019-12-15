@@ -5,7 +5,7 @@ The Combat Game
 (A console based game developed in Python)
 ---------------------
 
-<img src="roulette_cash.jpg" width="200px" height="200px"> </img> 
+<img src="combat.png" width="200px" height="200px"> </img> 
 </div>
 
 System Requirements:
